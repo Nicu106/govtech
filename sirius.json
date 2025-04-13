@@ -1,0 +1,554 @@
+{
+  "medici": [
+    {
+      "nume": "Doctorul 1 Ionescu",
+      "specialitate": "Specialitate Chirurgie",
+      "institutie": "Clinica Novamed",
+      "tip_institutie": "publică",
+      "adresa": "Chișinău, Strada Exemplarului, Nr. 1",
+      "contact": {
+        "telefon": "+373 22 123 001",
+        "email": "doctor1@example.com"
+      }
+    },
+    {
+      "nume": "Doctorul 2 Ionescu",
+      "specialitate": "Specialitate Pediatrie",
+      "institutie": "Clinica Sante",
+      "tip_institutie": "privată",
+      "adresa": "Chișinău, Strada Exemplarului, Nr. 2",
+      "contact": {
+        "telefon": "+373 22 123 002",
+        "email": "doctor2@example.com"
+      }
+    },
+    {
+      "nume": "Doctorul 3 Ionescu",
+      "specialitate": "Specialitate Cardiologie",
+      "institutie": "Clinica Novamed",
+      "tip_institutie": "publică",
+      "adresa": "Chișinău, Strada Exemplarului, Nr. 3",
+      "contact": {
+        "telefon": "+373 22 123 003",
+        "email": "doctor3@example.com"
+      }
+    },
+    {
+      "nume": "Doctorul 4 Ionescu",
+      "specialitate": "Specialitate Chirurgie",
+      "institutie": "Clinica Sante",
+      "tip_institutie": "privată",
+      "adresa": "Chișinău, Strada Exemplarului, Nr. 4",
+      "contact": {
+        "telefon": "+373 22 123 004",
+        "email": "doctor4@example.com"
+      }
+    },
+    {
+      "nume": "Doctorul 5 Ionescu",
+      "specialitate": "Specialitate Pediatrie",
+      "institutie": "Clinica Novamed",
+      "tip_institutie": "publică",
+      "adresa": "Chișinău, Strada Exemplarului, Nr. 5",
+      "contact": {
+        "telefon": "+373 22 123 005",
+        "email": "doctor5@example.com"
+      }
+    },
+    {
+      "nume": "Doctorul 6 Ionescu",
+      "specialitate": "Specialitate Cardiologie",
+      "institutie": "Clinica Sante",
+      "tip_institutie": "privată",
+      "adresa": "Chișinău, Strada Exemplarului, Nr. 6",
+      "contact": {
+        "telefon": "+373 22 123 006",
+        "email": "doctor6@example.com"
+      }
+    },
+    {
+      "nume": "Doctorul 7 Ionescu",
+      "specialitate": "Specialitate Chirurgie",
+      "institutie": "Clinica Novamed",
+      "tip_institutie": "publică",
+      "adresa": "Chișinău, Strada Exemplarului, Nr. 7",
+      "contact": {
+        "telefon": "+373 22 123 007",
+        "email": "doctor7@example.com"
+      }
+    },
+    {
+      "nume": "Doctorul 8 Ionescu",
+      "specialitate": "Specialitate Pediatrie",
+      "institutie": "Clinica Sante",
+      "tip_institutie": "privată",
+      "adresa": "Chișinău, Strada Exemplarului, Nr. 8",
+      "contact": {
+        "telefon": "+373 22 123 008",
+        "email": "doctor8@example.com"
+      }
+    },
+    {
+      "nume": "Doctorul 9 Ionescu",
+      "specialitate": "Specialitate Cardiologie",
+      "institutie": "Clinica Novamed",
+      "tip_institutie": "publică",
+      "adresa": "Chișinău, Strada Exemplarului, Nr. 9",
+      "contact": {
+        "telefon": "+373 22 123 009",
+        "email": "doctor9@example.com"
+      }
+    },
+    {
+      "nume": "Doctorul 10 Ionescu",
+      "specialitate": "Specialitate Chirurgie",
+      "institutie": "Clinica Sante",
+      "tip_institutie": "privată",
+      "adresa": "Chișinău, Strada Exemplarului, Nr. 10",
+      "contact": {
+        "telefon": "+373 22 123 010",
+        "email": "doctor10@example.com"
+      }
+    },
+    {
+      "nume": "Doctorul 11 Ionescu",
+      "specialitate": "Specialitate Pediatrie",
+      "institutie": "Clinica Novamed",
+      "tip_institutie": "publică",
+      "adresa": "Chișinău, Strada Exemplarului, Nr. 11",
+      "contact": {
+        "telefon": "+373 22 123 011",
+        "email": "doctor11@example.com"
+      }
+    },
+    {
+      "nume": "Doctorul 12 Ionescu",
+      "specialitate": "Specialitate Cardiologie",
+      "institutie": "Clinica Sante",
+      "tip_institutie": "privată",
+      "adresa": "Chișinău, Strada Exemplarului, Nr. 12",
+      "contact": {
+        "telefon": "+373 22 123 012",
+        "email": "doctor12@example.com"
+      }
+    },
+    {
+      "nume": "Doctorul 13 Ionescu",
+      "specialitate": "Specialitate Chirurgie",
+      "institutie": "Clinica Novamed",
+      "tip_institutie": "publică",
+      "adresa": "Chișinău, Strada Exemplarului, Nr. 13",
+      "contact": {
+        "telefon": "+373 22 123 013",
+        "email": "doctor13@example.com"
+      }
+    },
+    {
+      "nume": "Doctorul 14 Ionescu",
+      "specialitate": "Specialitate Pediatrie",
+      "institutie": "Clinica Sante",
+      "tip_institutie": "privată",
+      "adresa": "Chișinău, Strada Exemplarului, Nr. 14",
+      "contact": {
+        "telefon": "+373 22 123 014",
+        "email": "doctor14@example.com"
+      }
+    },
+    {
+      "nume": "Doctorul 15 Ionescu",
+      "specialitate": "Specialitate Cardiologie",
+      "institutie": "Clinica Novamed",
+      "tip_institutie": "publică",
+      "adresa": "Chișinău, Strada Exemplarului, Nr. 15",
+      "contact": {
+        "telefon": "+373 22 123 015",
+        "email": "doctor15@example.com"
+      }
+    },
+    {
+      "nume": "Doctorul 16 Ionescu",
+      "specialitate": "Specialitate Chirurgie",
+      "institutie": "Clinica Sante",
+      "tip_institutie": "privată",
+      "adresa": "Chișinău, Strada Exemplarului, Nr. 16",
+      "contact": {
+        "telefon": "+373 22 123 016",
+        "email": "doctor16@example.com"
+      }
+    },
+    {
+      "nume": "Doctorul 17 Ionescu",
+      "specialitate": "Specialitate Pediatrie",
+      "institutie": "Clinica Novamed",
+      "tip_institutie": "publică",
+      "adresa": "Chișinău, Strada Exemplarului, Nr. 17",
+      "contact": {
+        "telefon": "+373 22 123 017",
+        "email": "doctor17@example.com"
+      }
+    },
+    {
+      "nume": "Doctorul 18 Ionescu",
+      "specialitate": "Specialitate Cardiologie",
+      "institutie": "Clinica Sante",
+      "tip_institutie": "privată",
+      "adresa": "Chișinău, Strada Exemplarului, Nr. 18",
+      "contact": {
+        "telefon": "+373 22 123 018",
+        "email": "doctor18@example.com"
+      }
+    },
+    {
+      "nume": "Doctorul 19 Ionescu",
+      "specialitate": "Specialitate Chirurgie",
+      "institutie": "Clinica Novamed",
+      "tip_institutie": "publică",
+      "adresa": "Chișinău, Strada Exemplarului, Nr. 19",
+      "contact": {
+        "telefon": "+373 22 123 019",
+        "email": "doctor19@example.com"
+      }
+    },
+    {
+      "nume": "Doctorul 20 Ionescu",
+      "specialitate": "Specialitate Pediatrie",
+      "institutie": "Clinica Sante",
+      "tip_institutie": "privată",
+      "adresa": "Chișinău, Strada Exemplarului, Nr. 20",
+      "contact": {
+        "telefon": "+373 22 123 020",
+        "email": "doctor20@example.com"
+      }
+    },
+    {
+      "nume": "Doctorul 21 Ionescu",
+      "specialitate": "Specialitate Cardiologie",
+      "institutie": "Clinica Novamed",
+      "tip_institutie": "publică",
+      "adresa": "Chișinău, Strada Exemplarului, Nr. 21",
+      "contact": {
+        "telefon": "+373 22 123 021",
+        "email": "doctor21@example.com"
+      }
+    },
+    {
+      "nume": "Doctorul 22 Ionescu",
+      "specialitate": "Specialitate Chirurgie",
+      "institutie": "Clinica Sante",
+      "tip_institutie": "privată",
+      "adresa": "Chișinău, Strada Exemplarului, Nr. 22",
+      "contact": {
+        "telefon": "+373 22 123 022",
+        "email": "doctor22@example.com"
+      }
+    },
+    {
+      "nume": "Doctorul 23 Ionescu",
+      "specialitate": "Specialitate Pediatrie",
+      "institutie": "Clinica Novamed",
+      "tip_institutie": "publică",
+      "adresa": "Chișinău, Strada Exemplarului, Nr. 23",
+      "contact": {
+        "telefon": "+373 22 123 023",
+        "email": "doctor23@example.com"
+      }
+    },
+    {
+      "nume": "Doctorul 24 Ionescu",
+      "specialitate": "Specialitate Cardiologie",
+      "institutie": "Clinica Sante",
+      "tip_institutie": "privată",
+      "adresa": "Chișinău, Strada Exemplarului, Nr. 24",
+      "contact": {
+        "telefon": "+373 22 123 024",
+        "email": "doctor24@example.com"
+      }
+    },
+    {
+      "nume": "Doctorul 25 Ionescu",
+      "specialitate": "Specialitate Chirurgie",
+      "institutie": "Clinica Novamed",
+      "tip_institutie": "publică",
+      "adresa": "Chișinău, Strada Exemplarului, Nr. 25",
+      "contact": {
+        "telefon": "+373 22 123 025",
+        "email": "doctor25@example.com"
+      }
+    },
+    {
+      "nume": "Doctorul 26 Ionescu",
+      "specialitate": "Specialitate Pediatrie",
+      "institutie": "Clinica Sante",
+      "tip_institutie": "privată",
+      "adresa": "Chișinău, Strada Exemplarului, Nr. 26",
+      "contact": {
+        "telefon": "+373 22 123 026",
+        "email": "doctor26@example.com"
+      }
+    },
+    {
+      "nume": "Doctorul 27 Ionescu",
+      "specialitate": "Specialitate Cardiologie",
+      "institutie": "Clinica Novamed",
+      "tip_institutie": "publică",
+      "adresa": "Chișinău, Strada Exemplarului, Nr. 27",
+      "contact": {
+        "telefon": "+373 22 123 027",
+        "email": "doctor27@example.com"
+      }
+    },
+    {
+      "nume": "Doctorul 28 Ionescu",
+      "specialitate": "Specialitate Chirurgie",
+      "institutie": "Clinica Sante",
+      "tip_institutie": "privată",
+      "adresa": "Chișinău, Strada Exemplarului, Nr. 28",
+      "contact": {
+        "telefon": "+373 22 123 028",
+        "email": "doctor28@example.com"
+      }
+    },
+    {
+      "nume": "Doctorul 29 Ionescu",
+      "specialitate": "Specialitate Pediatrie",
+      "institutie": "Clinica Novamed",
+      "tip_institutie": "publică",
+      "adresa": "Chișinău, Strada Exemplarului, Nr. 29",
+      "contact": {
+        "telefon": "+373 22 123 029",
+        "email": "doctor29@example.com"
+      }
+    },
+    {
+      "nume": "Doctorul 30 Ionescu",
+      "specialitate": "Specialitate Cardiologie",
+      "institutie": "Clinica Sante",
+      "tip_institutie": "privată",
+      "adresa": "Chișinău, Strada Exemplarului, Nr. 30",
+      "contact": {
+        "telefon": "+373 22 123 030",
+        "email": "doctor30@example.com"
+      }
+    },
+    {
+      "nume": "Doctorul 31 Ionescu",
+      "specialitate": "Specialitate Chirurgie",
+      "institutie": "Clinica Novamed",
+      "tip_institutie": "publică",
+      "adresa": "Chișinău, Strada Exemplarului, Nr. 31",
+      "contact": {
+        "telefon": "+373 22 123 031",
+        "email": "doctor31@example.com"
+      }
+    },
+    {
+      "nume": "Doctorul 32 Ionescu",
+      "specialitate": "Specialitate Pediatrie",
+      "institutie": "Clinica Sante",
+      "tip_institutie": "privată",
+      "adresa": "Chișinău, Strada Exemplarului, Nr. 32",
+      "contact": {
+        "telefon": "+373 22 123 032",
+        "email": "doctor32@example.com"
+      }
+    },
+    {
+      "nume": "Doctorul 33 Ionescu",
+      "specialitate": "Specialitate Cardiologie",
+      "institutie": "Clinica Novamed",
+      "tip_institutie": "publică",
+      "adresa": "Chișinău, Strada Exemplarului, Nr. 33",
+      "contact": {
+        "telefon": "+373 22 123 033",
+        "email": "doctor33@example.com"
+      }
+    },
+    {
+      "nume": "Doctorul 34 Ionescu",
+      "specialitate": "Specialitate Chirurgie",
+      "institutie": "Clinica Sante",
+      "tip_institutie": "privată",
+      "adresa": "Chișinău, Strada Exemplarului, Nr. 34",
+      "contact": {
+        "telefon": "+373 22 123 034",
+        "email": "doctor34@example.com"
+      }
+    },
+    {
+      "nume": "Doctorul 35 Ionescu",
+      "specialitate": "Specialitate Pediatrie",
+      "institutie": "Clinica Novamed",
+      "tip_institutie": "publică",
+      "adresa": "Chișinău, Strada Exemplarului, Nr. 35",
+      "contact": {
+        "telefon": "+373 22 123 035",
+        "email": "doctor35@example.com"
+      }
+    },
+    {
+      "nume": "Doctorul 36 Ionescu",
+      "specialitate": "Specialitate Cardiologie",
+      "institutie": "Clinica Sante",
+      "tip_institutie": "privată",
+      "adresa": "Chișinău, Strada Exemplarului, Nr. 36",
+      "contact": {
+        "telefon": "+373 22 123 036",
+        "email": "doctor36@example.com"
+      }
+    },
+    {
+      "nume": "Doctorul 37 Ionescu",
+      "specialitate": "Specialitate Chirurgie",
+      "institutie": "Clinica Novamed",
+      "tip_institutie": "publică",
+      "adresa": "Chișinău, Strada Exemplarului, Nr. 37",
+      "contact": {
+        "telefon": "+373 22 123 037",
+        "email": "doctor37@example.com"
+      }
+    },
+    {
+      "nume": "Doctorul 38 Ionescu",
+      "specialitate": "Specialitate Pediatrie",
+      "institutie": "Clinica Sante",
+      "tip_institutie": "privată",
+      "adresa": "Chișinău, Strada Exemplarului, Nr. 38",
+      "contact": {
+        "telefon": "+373 22 123 038",
+        "email": "doctor38@example.com"
+      }
+    },
+    {
+      "nume": "Doctorul 39 Ionescu",
+      "specialitate": "Specialitate Cardiologie",
+      "institutie": "Clinica Novamed",
+      "tip_institutie": "publică",
+      "adresa": "Chișinău, Strada Exemplarului, Nr. 39",
+      "contact": {
+        "telefon": "+373 22 123 039",
+        "email": "doctor39@example.com"
+      }
+    },
+    {
+      "nume": "Doctorul 40 Ionescu",
+      "specialitate": "Specialitate Chirurgie",
+      "institutie": "Clinica Sante",
+      "tip_institutie": "privată",
+      "adresa": "Chișinău, Strada Exemplarului, Nr. 40",
+      "contact": {
+        "telefon": "+373 22 123 040",
+        "email": "doctor40@example.com"
+      }
+    },
+    {
+      "nume": "Doctorul 41 Ionescu",
+      "specialitate": "Specialitate Pediatrie",
+      "institutie": "Clinica Novamed",
+      "tip_institutie": "publică",
+      "adresa": "Chișinău, Strada Exemplarului, Nr. 41",
+      "contact": {
+        "telefon": "+373 22 123 041",
+        "email": "doctor41@example.com"
+      }
+    },
+    {
+      "nume": "Doctorul 42 Ionescu",
+      "specialitate": "Specialitate Cardiologie",
+      "institutie": "Clinica Sante",
+      "tip_institutie": "privată",
+      "adresa": "Chișinău, Strada Exemplarului, Nr. 42",
+      "contact": {
+        "telefon": "+373 22 123 042",
+        "email": "doctor42@example.com"
+      }
+    },
+    {
+      "nume": "Doctorul 43 Ionescu",
+      "specialitate": "Specialitate Chirurgie",
+      "institutie": "Clinica Novamed",
+      "tip_institutie": "publică",
+      "adresa": "Chișinău, Strada Exemplarului, Nr. 43",
+      "contact": {
+        "telefon": "+373 22 123 043",
+        "email": "doctor43@example.com"
+      }
+    },
+    {
+      "nume": "Doctorul 44 Ionescu",
+      "specialitate": "Specialitate Pediatrie",
+      "institutie": "Clinica Sante",
+      "tip_institutie": "privată",
+      "adresa": "Chișinău, Strada Exemplarului, Nr. 44",
+      "contact": {
+        "telefon": "+373 22 123 044",
+        "email": "doctor44@example.com"
+      }
+    },
+    {
+      "nume": "Doctorul 45 Ionescu",
+      "specialitate": "Specialitate Cardiologie",
+      "institutie": "Clinica Novamed",
+      "tip_institutie": "publică",
+      "adresa": "Chișinău, Strada Exemplarului, Nr. 45",
+      "contact": {
+        "telefon": "+373 22 123 045",
+        "email": "doctor45@example.com"
+      }
+    },
+    {
+      "nume": "Doctorul 46 Ionescu",
+      "specialitate": "Specialitate Chirurgie",
+      "institutie": "Clinica Sante",
+      "tip_institutie": "privată",
+      "adresa": "Chișinău, Strada Exemplarului, Nr. 46",
+      "contact": {
+        "telefon": "+373 22 123 046",
+        "email": "doctor46@example.com"
+      }
+    },
+    {
+      "nume": "Doctorul 47 Ionescu",
+      "specialitate": "Specialitate Pediatrie",
+      "institutie": "Clinica Novamed",
+      "tip_institutie": "publică",
+      "adresa": "Chișinău, Strada Exemplarului, Nr. 47",
+      "contact": {
+        "telefon": "+373 22 123 047",
+        "email": "doctor47@example.com"
+      }
+    },
+    {
+      "nume": "Doctorul 48 Ionescu",
+      "specialitate": "Specialitate Cardiologie",
+      "institutie": "Clinica Sante",
+      "tip_institutie": "privată",
+      "adresa": "Chișinău, Strada Exemplarului, Nr. 48",
+      "contact": {
+        "telefon": "+373 22 123 048",
+        "email": "doctor48@example.com"
+      }
+    },
+    {
+      "nume": "Doctorul 49 Ionescu",
+      "specialitate": "Specialitate Chirurgie",
+      "institutie": "Clinica Novamed",
+      "tip_institutie": "publică",
+      "adresa": "Chișinău, Strada Exemplarului, Nr. 49",
+      "contact": {
+        "telefon": "+373 22 123 049",
+        "email": "doctor49@example.com"
+      }
+    },
+    {
+      "nume": "Doctorul 50 Ionescu",
+      "specialitate": "Specialitate Pediatrie",
+      "institutie": "Clinica Sante",
+      "tip_institutie": "privată",
+      "adresa": "Chișinău, Strada Exemplarului, Nr. 50",
+      "contact": {
+        "telefon": "+373 22 123 050",
+        "email": "doctor50@example.com"
+      }
+    }
+  ]
+}

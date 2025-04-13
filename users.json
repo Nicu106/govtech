@@ -1,0 +1,252 @@
+[
+  {
+    "idnp": "8657241902351",
+    "phone": "061905873",
+    "name": "Ion Popescu"
+  },
+  {
+    "idnp": "1246738912065",
+    "phone": "067123456",
+    "name": "Maria Rusu"
+  },
+  {
+    "idnp": "9427813092810",
+    "phone": "079445231",
+    "name": "Vasile Gheorghe"
+  },
+  {
+    "idnp": "2904768123087",
+    "phone": "062309384",
+    "name": "Elena Balan"
+  },
+  {
+    "idnp": "1938472610982",
+    "phone": "060239487",
+    "name": "Mihai Ursu"
+  },
+  {
+    "idnp": "9876543210123",
+    "phone": "069102938",
+    "name": "Cristina Ionescu"
+  },
+  {
+    "idnp": "1234567890876",
+    "phone": "068556778",
+    "name": "Andrei Moraru"
+  },
+  {
+    "idnp": "3126457890123",
+    "phone": "063785234",
+    "name": "Ana Vrabie"
+  },
+  {
+    "idnp": "5463728192038",
+    "phone": "079876543",
+    "name": "Tatiana Petrescu"
+  },
+  {
+    "idnp": "0987654321098",
+    "phone": "067657483",
+    "name": "Gheorghe Turcu"
+  },
+  {
+    "idnp": "8657241900001",
+    "phone": "061999873",
+    "name": "Ion Popa"
+  },
+  {
+    "idnp": "1246738912222",
+    "phone": "067000456",
+    "name": "Maria Vasile"
+  },
+  {
+    "idnp": "9427813000000",
+    "phone": "079400000",
+    "name": "Vasile Lungu"
+  },
+  {
+    "idnp": "2904768123000",
+    "phone": "062300000",
+    "name": "Elena Pascal"
+  },
+  {
+    "idnp": "1938472610000",
+    "phone": "060200000",
+    "name": "Mihai Damian"
+  },
+  {
+    "idnp": "9876543210000",
+    "phone": "069100000",
+    "name": "Cristina Nistor"
+  },
+  {
+    "idnp": "1234567890000",
+    "phone": "068550000",
+    "name": "Andrei Luca"
+  },
+  {
+    "idnp": "3126457890000",
+    "phone": "063780000",
+    "name": "Ana Burlacu"
+  },
+  {
+    "idnp": "5463728190000",
+    "phone": "079870000",
+    "name": "Tatiana Pașcu"
+  },
+  {
+    "idnp": "0987654321000",
+    "phone": "067650000",
+    "name": "Gheorghe Dima"
+  },
+  {
+    "idnp": "8657241901111",
+    "phone": "061911873",
+    "name": "Ion Ivan"
+  },
+  {
+    "idnp": "1246738912111",
+    "phone": "067121456",
+    "name": "Maria Andrei"
+  },
+  {
+    "idnp": "9427813011110",
+    "phone": "079441231",
+    "name": "Vasile Pavel"
+  },
+  {
+    "idnp": "2904768123111",
+    "phone": "062311384",
+    "name": "Elena Georgescu"
+  },
+  {
+    "idnp": "1938472610111",
+    "phone": "060211487",
+    "name": "Mihai Coroi"
+  },
+  {
+    "idnp": "9876543210111",
+    "phone": "069110938",
+    "name": "Cristina Dorneanu"
+  },
+  {
+    "idnp": "1234567890111",
+    "phone": "068556000",
+    "name": "Andrei Pavel"
+  },
+  {
+    "idnp": "3126457890111",
+    "phone": "063781234",
+    "name": "Ana Dragomir"
+  },
+  {
+    "idnp": "5463728190111",
+    "phone": "079876000",
+    "name": "Tatiana Olaru"
+  },
+  {
+    "idnp": "0987654321011",
+    "phone": "067657000",
+    "name": "Gheorghe Roman"
+  },
+  {
+    "idnp": "8657241902222",
+    "phone": "061922873",
+    "name": "Ion Dima"
+  },
+  {
+    "idnp": "1246738912221",
+    "phone": "067122456",
+    "name": "Maria Bujor"
+  },
+  {
+    "idnp": "9427813022220",
+    "phone": "079442231",
+    "name": "Vasile Popa"
+  },
+  {
+    "idnp": "2904768123222",
+    "phone": "062322384",
+    "name": "Elena Mihail"
+  },
+  {
+    "idnp": "1938472610222",
+    "phone": "060222487",
+    "name": "Mihai Damian"
+  },
+  {
+    "idnp": "9876543210222",
+    "phone": "069120938",
+    "name": "Cristina Ivan"
+  },
+  {
+    "idnp": "1234567890222",
+    "phone": "068557000",
+    "name": "Andrei Munteanu"
+  },
+  {
+    "idnp": "3126457890222",
+    "phone": "063782234",
+    "name": "Ana Corlan"
+  },
+  {
+    "idnp": "5463728190222",
+    "phone": "079877000",
+    "name": "Tatiana Ursu"
+  },
+  {
+    "idnp": "0987654321022",
+    "phone": "067658000",
+    "name": "Gheorghe Negru"
+  },
+  {
+    "idnp": "8657241903333",
+    "phone": "061933873",
+    "name": "Ion Rusu"
+  },
+  {
+    "idnp": "1246738912333",
+    "phone": "067123656",
+    "name": "Maria Buza"
+  },
+  {
+    "idnp": "9427813033330",
+    "phone": "079443231",
+    "name": "Vasile Andrei"
+  },
+  {
+    "idnp": "2904768123333",
+    "phone": "062333384",
+    "name": "Elena Filip"
+  },
+  {
+    "idnp": "1938472610333",
+    "phone": "060233487",
+    "name": "Mihai Pop"
+  },
+  {
+    "idnp": "9876543210333",
+    "phone": "069130938",
+    "name": "Cristina Apostol"
+  },
+  {
+    "idnp": "1234567890333",
+    "phone": "068558000",
+    "name": "Andrei Răileanu"
+  },
+  {
+    "idnp": "3126457890333",
+    "phone": "063783234",
+    "name": "Ana Iacob"
+  },
+  {
+    "idnp": "5463728190333",
+    "phone": "079878000",
+    "name": "Tatiana Vlad"
+  },
+  {
+    "idnp": "0987654321033",
+    "phone": "067659000",
+    "name": "Gheorghe Neagu"
+  }
+]

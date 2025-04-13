@@ -1,0 +1,63 @@
+
+
+# 🚀 Cum să pornești acest API - govtech
+
+## ✅ 1. Clonarea proiectului (dacă e pe GitHub)
+```bash
+git clone https://github.com/username/govtech.git
+cd govtech
+```
+
+## 🐍 2. Crearea și activarea unui mediu virtual (recomandat)
+
+### Pe Linux/macOS:
+```bash
+python3 -m venv venv
+source venv/bin/activate
+```
+
+### Pe Windows:
+```bash
+python -m venv venv
+venv\Scripts\activate
+```
+
+## 📦 3. Instalarea dependențelor
+
+Dacă fișierul `requirements.txt` nu există, îl poți genera cu:
+```bash
+pip freeze > requirements.txt
+```
+
+Apoi instalezi:
+```bash
+pip install -r requirements.txt
+```
+
+## 🚀 4. Pornirea API-ului
+
+Dacă aplicația FastAPI este în fișierul `main.py`, rulează:
+
+```bash
+uvicorn main:app --reload
+```
+
+Opțiunea `--reload` este utilă pentru dezvoltare – repornește automat serverul când faci modificări în cod.
+
+---
+
+## 📎 Alte informații utile
+
+- Asigură-te că ești în directorul corect: `govtech`
+- Dacă apare eroare legată de `uvicorn`, instalează-l cu:
+  ```bash
+  pip install uvicorn
+  ```
+- Accesează API-ul în browser sau cu Postman la:
+  ```
+  http://127.0.0.1:8000
+  ```
+- Documentația interactivă Swagger:
+  ```
+  http://127.0.0.1:8000/docs
+  ```

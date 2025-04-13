@@ -1,0 +1,484 @@
+{
+  "retete": [
+    {
+      "id": 1,
+      "pacient": "Ion Popescu",
+      "doctor": "Dr. Elena Vasilescu",
+      "medicamente": ["Paracetamol", "Ibuprofen"],
+      "data_eliberarii": "2024-02-14",
+      "institutie_medicala": "Clinica Sante"
+    },
+    {
+      "id": 2,
+      "pacient": "Maria Ionescu",
+      "doctor": "Dr. Andrei Dima",
+      "medicamente": ["Amoxicilină"],
+      "data_eliberarii": "2024-03-02",
+      "institutie_medicala": "Spitalul Municipal nr. 1"
+    },
+    {
+      "id": 3,
+      "pacient": "Andrei Georgescu",
+      "doctor": "Dr. Georgiana Pavel",
+      "medicamente": ["Nurofen", "Algocalmin"],
+      "data_eliberarii": "2023-12-11",
+      "institutie_medicala": "Spitalul Clinic Republican"
+    },
+    {
+      "id": 4,
+      "pacient": "Elena Vasilescu",
+      "doctor": "Dr. Radu Stan",
+      "medicamente": ["Cefalexin"],
+      "data_eliberarii": "2024-01-22",
+      "institutie_medicala": "Centrul Medical Terramed"
+    },
+    {
+      "id": 5,
+      "pacient": "Doru Rusu",
+      "doctor": "Dr. Elena Vasilescu",
+      "medicamente": ["Paracetamol"],
+      "data_eliberarii": "2023-09-10",
+      "institutie_medicala": "Clinica Sante"
+    },
+    {
+      "id": 6,
+      "pacient": "Ana Maria",
+      "doctor": "Dr. Mihai Ionescu",
+      "medicamente": ["Aspirină"],
+      "data_eliberarii": "2024-04-01",
+      "institutie_medicala": "Spitalul Județean"
+    },
+    {
+      "id": 7,
+      "pacient": "Vlad Radu",
+      "doctor": "Dr. Andreea Pop",
+      "medicamente": ["Ciproflaxin"],
+      "data_eliberarii": "2024-04-05",
+      "institutie_medicala": "Clinica Sante"
+    },
+    {
+      "id": 8,
+      "pacient": "Ioana Dobre",
+      "doctor": "Dr. Radu Stan",
+      "medicamente": ["Metformin"],
+      "data_eliberarii": "2024-04-10",
+      "institutie_medicala": "Spitalul Municipal nr. 2"
+    },
+    {
+      "id": 9,
+      "pacient": "Cristian Popescu",
+      "doctor": "Dr. Elena Vasilescu",
+      "medicamente": ["Simvastatin"],
+      "data_eliberarii": "2024-04-15",
+      "institutie_medicala": "Centrul Medical Terramed"
+    },
+    {
+      "id": 10,
+      "pacient": "Mihai Ionescu",
+      "doctor": "Dr. Andrei Dima",
+      "medicamente": ["Lansoprazol"],
+      "data_eliberarii": "2024-04-20",
+      "institutie_medicala": "Spitalul Clinic Republican"
+    },
+    {
+      "id": 11,
+      "pacient": "Gabriela Radu",
+      "doctor": "Dr. Georgiana Pavel",
+      "medicamente": ["Omeprazol"],
+      "data_eliberarii": "2024-04-25",
+      "institutie_medicala": "Clinica Sante"
+    },
+    {
+      "id": 12,
+      "pacient": "Florin Dima",
+      "doctor": "Dr. Radu Stan",
+      "medicamente": ["Xarelto"],
+      "data_eliberarii": "2024-04-30",
+      "institutie_medicala": "Spitalul Județean"
+    },
+    {
+      "id": 13,
+      "pacient": "Sorin Ionescu",
+      "doctor": "Dr. Elena Vasilescu",
+      "medicamente": ["Dexametazonă"],
+      "data_eliberarii": "2024-05-05",
+      "institutie_medicala": "Centrul Medical Terramed"
+    },
+    {
+      "id": 14,
+      "pacient": "Raluca Pop",
+      "doctor": "Dr. Andreea Pop",
+      "medicamente": ["Hydrochlorothiazide"],
+      "data_eliberarii": "2024-05-10",
+      "institutie_medicala": "Spitalul Municipal nr. 1"
+    },
+    {
+      "id": 15,
+      "pacient": "Adrian Vasilescu",
+      "doctor": "Dr. Mihai Ionescu",
+      "medicamente": ["Levothyroxine"],
+      "data_eliberarii": "2024-05-15",
+      "institutie_medicala": "Spitalul Clinic Republican"
+    },
+    {
+      "id": 16,
+      "pacient": "Carmen Dobre",
+      "doctor": "Dr. Georgiana Pavel",
+      "medicamente": ["Citalopram"],
+      "data_eliberarii": "2024-05-20",
+      "institutie_medicala": "Clinica Sante"
+    },
+    {
+      "id": 17,
+      "pacient": "Victor Rusu",
+      "doctor": "Dr. Radu Stan",
+      "medicamente": ["Sertraline"],
+      "data_eliberarii": "2024-05-25",
+      "institutie_medicala": "Centrul Medical Terramed"
+    },
+    {
+      "id": 18,
+      "pacient": "Anca Georgescu",
+      "doctor": "Dr. Andrei Dima",
+      "medicamente": ["Venlafaxine"],
+      "data_eliberarii": "2024-05-30",
+      "institutie_medicala": "Spitalul Județean"
+    },
+    {
+      "id": 19,
+      "pacient": "Stefan Ionescu",
+      "doctor": "Dr. Elena Vasilescu",
+      "medicamente": ["Fluoxetine"],
+      "data_eliberarii": "2024-06-04",
+      "institutie_medicala": "Spitalul Municipal nr. 2"
+    },
+    {
+      "id": 20,
+      "pacient": "Irina Popescu",
+      "doctor": "Dr. Andreea Pop",
+      "medicamente": ["Escitalopram"],
+      "data_eliberarii": "2024-06-09",
+      "institutie_medicala": "Clinica Sante"
+    },
+    {
+      "id": 21,
+      "pacient": "Daniel Radu",
+      "doctor": "Dr. Mihai Ionescu",
+      "medicamente": ["Aripiprazol"],
+      "data_eliberarii": "2024-06-14",
+      "institutie_medicala": "Spitalul Clinic Republican"
+    },
+    {
+      "id": 22,
+      "pacient": "Sonia Dima",
+      "doctor": "Dr. Georgiana Pavel",
+      "medicamente": ["Quetiapine"],
+      "data_eliberarii": "2024-06-19",
+      "institutie_medicala": "Centrul Medical Terramed"
+    },
+    {
+      "id": 23,
+      "pacient": "Radu Ionescu",
+      "doctor": "Dr. Radu Stan",
+      "medicamente": ["Lithium"],
+      "data_eliberarii": "2024-06-24",
+      "institutie_medicala": "Spitalul Județean"
+    },
+    {
+      "id": 24,
+      "pacient": "Elena Pop",
+      "doctor": "Dr. Andrei Dima",
+      "medicamente": ["Bupropion"],
+      "data_eliberarii": "2024-06-29",
+      "institutie_medicala": "Spitalul Municipal nr. 1"
+    },
+    {
+      "id": 25,
+      "pacient": "Mihai Georgescu",
+      "doctor": "Dr. Elena Vasilescu",
+      "medicamente": ["Mirtazapine"],
+      "data_eliberarii": "2024-07-04",
+      "institutie_medicala": "Clinica Sante"
+    },
+    {
+      "id": 26,
+      "pacient": "Cristina Rusu",
+      "doctor": "Dr. Andreea Pop",
+      "medicamente": ["Naltrexone"],
+      "data_eliberarii": "2024-07-09",
+      "institutie_medicala": "Centrul Medical Terramed"
+    },
+    {
+      "id": 27,
+      "pacient": "Ion Dima",
+      "doctor": "Dr. Mihai Ionescu",
+      "medicamente": ["Buspirone"],
+      "data_eliberarii": "2024-07-14",
+      "institutie_medicala": "Spitalul Clinic Republican"
+    },
+    {
+      "id": 28,
+      "pacient": "Maria Vasilescu",
+      "doctor": "Dr. Georgiana Pavel",
+      "medicamente": ["Trazodone"],
+      "data_eliberarii": "2024-07-19",
+      "institutie_medicala": "Spitalul Județean"
+    },
+    {
+      "id": 29,
+      "pacient": "Doru Ionescu",
+      "doctor": "Dr. Radu Stan",
+      "medicamente": ["Clonazepam"],
+      "data_eliberarii": "2024-07-24",
+      "institutie_medicala": "Centrul Medical Terramed"
+    },
+    {
+      "id": 30,
+      "pacient": "Andreea Dobre",
+      "doctor": "Dr. Andrei Dima",
+      "medicamente": ["Diazepam"],
+      "data_eliberarii": "2024-07-29",
+      "institutie_medicala": "Clinica Sante"
+    },
+    {
+      "id": 31,
+      "pacient": "Victor Popescu",
+      "doctor": "Dr. Elena Vasilescu",
+      "medicamente": ["Gabapentin"],
+      "data_eliberarii": "2024-08-03",
+      "institutie_medicala": "Spitalul Municipal nr. 1"
+    },
+    {
+      "id": 32,
+      "pacient": "Raluca Radu",
+      "doctor": "Dr. Andreea Pop",
+      "medicamente": ["Pregabalin"],
+      "data_eliberarii": "2024-08-08",
+      "institutie_medicala": "Centrul Medical Terramed"
+    },
+    {
+      "id": 33,
+      "pacient": "Florin Ionescu",
+      "doctor": "Dr. Mihai Ionescu",
+      "medicamente": ["Topiramate"],
+      "data_eliberarii": "2024-08-13",
+      "institutie_medicala": "Spitalul Clinic Republican"
+    },
+    {
+      "id": 34,
+      "pacient": "Cristina Georgescu",
+      "doctor": "Dr. Georgiana Pavel",
+      "medicamente": ["Lamotrigine"],
+      "data_eliberarii": "2024-08-18",
+      "institutie_medicala": "Spitalul Județean"
+    },
+    {
+      "id": 35,
+      "pacient": "Ion Radu",
+      "doctor": "Dr. Radu Stan",
+      "medicamente": ["Valproate"],
+      "data_eliberarii": "2024-08-23",
+      "institutie_medicala": "Centrul Medical Terramed"
+    },
+    {
+      "id": 36,
+      "pacient": "Diana Ionescu",
+      "doctor": "Dr. Andrei Dima",
+      "medicamente": ["Zonisamide"],
+      "data_eliberarii": "2024-08-28",
+      "institutie_medicala": "Clinica Sante"
+    },
+    {
+      "id": 37,
+      "pacient": "Sorin Vasilescu",
+      "doctor": "Dr. Elena Vasilescu",
+      "medicamente": ["Eslicarbazepine"],
+      "data_eliberarii": "2024-09-02",
+      "institutie_medicala": "Spitalul Municipal nr. 2"
+    },
+    {
+      "id": 38,
+      "pacient": "Andreea Dima",
+      "doctor": "Dr. Andreea Pop",
+      "medicamente": ["Perampanel"],
+      "data_eliberarii": "2024-09-07",
+      "institutie_medicala": "Spitalul Județean"
+    },
+    {
+      "id": 39,
+      "pacient": "Ion Ionescu",
+      "doctor": "Dr. Mihai Ionescu",
+      "medicamente": ["Clobazam"],
+      "data_eliberarii": "2024-09-12",
+      "institutie_medicala": "Centrul Medical Terramed"
+    },
+    {
+      "id": 40,
+      "pacient": "Maria Popescu",
+      "doctor": "Dr. Georgiana Pavel",
+      "medicamente": ["Fosphenytoin"],
+      "data_eliberarii": "2024-09-17",
+      "institutie_medicala": "Spitalul Clinic Republican"
+    },
+    {
+      "id": 41,
+      "pacient": "Victor Ionescu",
+      "doctor": "Dr. Radu Stan",
+      "medicamente": ["Rufinamide"],
+      "data_eliberarii": "2024-09-22",
+      "institutie_medicala": "Spitalul Județean"
+    },
+    {
+      "id": 42,
+      "pacient": "Raluca Dima",
+      "doctor": "Dr. Andrei Dima",
+      "medicamente": ["Lacosamide"],
+      "data_eliberarii": "2024-09-27",
+      "institutie_medicala": "Clinica Sante"
+    },
+    {
+      "id": 43,
+      "pacient": "Florin Dobre",
+      "doctor": "Dr. Elena Vasilescu",
+      "medicamente": ["Retigabine"],
+      "data_eliberarii": "2024-10-02",
+      "institutie_medicala": "Centrul Medical Terramed"
+    },
+    {
+      "id": 44,
+      "pacient": "Gabriela Ionescu",
+      "doctor": "Dr. Andreea Pop",
+      "medicamente": ["Perampanel"],
+      "data_eliberarii": "2024-10-07",
+      "institutie_medicala": "Spitalul Municipal nr. 1"
+    },
+    {
+      "id": 45,
+      "pacient": "Mihai Radu",
+      "doctor": "Dr. Mihai Ionescu",
+      "medicamente": ["Brivaracetam"],
+      "data_eliberarii": "2024-10-12",
+      "institutie_medicala": "Spitalul Clinic Republican"
+    },
+    {
+      "id": 46,
+      "pacient": "Anca Popescu",
+      "doctor": "Dr. Georgiana Pavel",
+      "medicamente": ["Cannabidiol"],
+      "data_eliberarii": "2024-10-17",
+      "institutie_medicala": "Centrul Medical Terramed"
+    },
+    {
+      "id": 47,
+      "pacient": "Ion Vasilescu",
+      "doctor": "Dr. Radu Stan",
+      "medicamente": ["Clobazam"],
+      "data_eliberarii": "2024-10-22",
+      "institutie_medicala": "Spitalul Județean"
+    },
+    {
+      "id": 48,
+      "pacient": "Maria Ionescu",
+      "doctor": "Dr. Andrei Dima",
+      "medicamente": ["Zonisamide"],
+      "data_eliberarii": "2024-10-27",
+      "institutie_medicala": "Clinica Sante"
+    },
+    {
+      "id": 49,
+      "pacient": "Doru Georgescu",
+      "doctor": "Dr. Elena Vasilescu",
+      "medicamente": ["Eslicarbazepine"],
+      "data_eliberarii": "2024-11-01",
+      "institutie_medicala": "Spitalul Municipal nr. 2"
+    },
+    {
+      "id": 50,
+      "pacient": "Victor Dima",
+      "doctor": "Dr. Andreea Pop",
+      "medicamente": ["Perampanel"],
+      "data_eliberarii": "2024-11-06",
+      "institutie_medicala": "Centrul Medical Terramed"
+    },
+    {
+      "id": 51,
+      "pacient": "Gabriela Radu",
+      "doctor": "Dr. Mihai Ionescu",
+      "medicamente": ["Lacosamide"],
+      "data_eliberarii": "2024-11-11",
+      "institutie_medicala": "Spitalul Clinic Republican"
+    },
+    {
+      "id": 52,
+      "pacient": "Cristian Ionescu",
+      "doctor": "Dr. Georgiana Pavel",
+      "medicamente": ["Fosphenytoin"],
+      "data_eliberarii": "2024-11-16",
+      "institutie_medicala": "Spitalul Județean"
+    },
+    {
+      "id": 53,
+      "pacient": "Anca Radu",
+      "doctor": "Dr. Radu Stan",
+      "medicamente": ["Brivaracetam"],
+      "data_eliberarii": "2024-11-21",
+      "institutie_medicala": "Clinica Sante"
+    },
+    {
+      "id": 54,
+      "pacient": "Ion Pop",
+      "doctor": "Dr. Andrei Dima",
+      "medicamente": ["Cannabidiol"],
+      "data_eliberarii": "2024-11-26",
+      "institutie_medicala": "Centrul Medical Terramed"
+    },
+    {
+      "id": 55,
+      "pacient": "Maria Vasilescu",
+      "doctor": "Dr. Elena Vasilescu",
+      "medicamente": ["Clobazam"],
+      "data_eliberarii": "2024-12-01",
+      "institutie_medicala": "Spitalul Municipal nr. 1"
+    },
+    {
+      "id": 56,
+      "pacient": "Doru Ionescu",
+      "doctor": "Dr. Andreea Pop",
+      "medicamente": ["Zonisamide"],
+      "data_eliberarii": "2024-12-06",
+      "institutie_medicala": "Spitalul Județean"
+    },
+    {
+      "id": 57,
+      "pacient": "Gabriela Dima",
+      "doctor": "Dr. Mihai Ionescu",
+      "medicamente": ["Eslicarbazepine"],
+      "data_eliberarii": "2024-12-11",
+      "institutie_medicala": "Centrul Medical Terramed"
+    },
+    {
+      "id": 58,
+      "pacient": "Victor Radu",
+      "doctor": "Dr. Georgiana Pavel",
+      "medicamente": ["Perampanel"],
+      "data_eliberarii": "2024-12-16",
+      "institutie_medicala": "Spitalul Clinic Republican"
+    },
+    {
+      "id": 59,
+      "pacient": "Mihai Ionescu",
+      "doctor": "Dr. Radu Stan",
+      "medicamente": ["Lacosamide"],
+      "data_eliberarii": "2024-12-21",
+      "institutie_medicala": "Spitalul Județean"
+    },
+    {
+      "id": 60,
+      "pacient": "Ana Popescu",
+      "doctor": "Dr. Andrei Dima",
+      "medicamente": ["Fosphenytoin"],
+      "data_eliberarii": "2024-12-26",
+      "institutie_medicala": "Clinica Sante"
+    }
+  ]
+}
